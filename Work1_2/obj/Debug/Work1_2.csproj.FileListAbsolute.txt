@@ -1,0 +1,7 @@
+E:\6\Work1_2\bin\Debug\Work1_2.exe.config
+E:\6\Work1_2\bin\Debug\Work1_2.exe
+E:\6\Work1_2\bin\Debug\Work1_2.pdb
+E:\6\Work1_2\obj\Debug\Work1_2.csprojAssemblyReference.cache
+E:\6\Work1_2\obj\Debug\Work1_2.csproj.CoreCompileInputs.cache
+E:\6\Work1_2\obj\Debug\Work1_2.exe
+E:\6\Work1_2\obj\Debug\Work1_2.pdb
