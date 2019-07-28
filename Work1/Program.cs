@@ -16,7 +16,7 @@ namespace Work12
 
             while (true)
             {
-                //Console.WriteLine("Введите " + count + " число:");
+                //Console.WriteLine("Введите " + count + " число:"); //или
                 Console.WriteLine($"Введите {count} число");
                 count++;
                 int k = Convert.ToInt32(Console.ReadLine());
